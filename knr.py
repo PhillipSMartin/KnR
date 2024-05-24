@@ -68,3 +68,4 @@ def analyze(hand):
         print (f'{x}: HCP:{HCP(x)}, q:{suit_quality(x)}')
     print (f'dist: {distribution_points(suits)}')
 #%%   
+main()
